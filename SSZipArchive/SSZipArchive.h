@@ -10,7 +10,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import "SSZipCommon.h"
+//#import "SSZipCommon.h"
+#include "minizip/mz_compat.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
